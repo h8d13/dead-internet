@@ -102,3 +102,10 @@ forms to fill and reasons justify at gate
 =========================================
 
 RePaper: https://arxiv.org/pdf/2605.12512
+Numerous bots on github do one of three :
+
+1. Repo archives (mostly harmless)
+2. Engage farms
+3. Auto pull requests
+4. Spread malware (as seen in HayDay)
+5. Low-effort issues
