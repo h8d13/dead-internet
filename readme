@@ -1,0 +1,104 @@
+= an open letter to the internet ========
+
+dead-internet problem is real and serious
+
+while most is often harmless detection is
+to say the least hard to discern nowadays
+but will not get easier with time either.
+
+my first real realisation of this came at
+the release of flux img gen model 2.1 dev
+the images were grainy'ish, felt too real
+
+writing was already submerged when edited
+and even "detectors" were known for fails
+original work being flagged. call-it-out:
+culture, spiderman-meme where its hard to
+tell what is genuine or complete bullshit
+
+=========================================
+
+the primitives of this failure are clear:
+1. stake
+engagement (views, likes)> training data$
+2. proof
+instead of trying to "detect" how fake XY
+
+=========================================
+
+for a web-of-trust this means detection >
+downstream and lossy, gets harder to tell
+while realness provenance is upstream and
+lossless. this is the only leverage left.
+this means playing offense at the source.
+
+=========================================
+
+github, reddit, youtube, or most socials.
+affected by an issue relatively simple to
+predict was going to get worse and worse.
+
+=========================================
+
+2014 i was botting instagram accounts to:
+1. barely respect rate limit for like/f2f
+2. unfollow later, then rinse and repeat.
+
+back then this was niche not v widespread
+but today mimicry is easier, plus profits
+follow these pattern of algorithmic games
+
+the reward was "gameable" and engagements
+were the direct reward of said trickeries
+
+=========================================
+
+the vicious cycle here is that a reaction
+positive or negative is direct engagement
+wheter through automation abuse, ragebait
+low-effort sharing, it's all the same e2e
+
+=========================================
+
+can we make something genuine + unwitting
+humans are not mislead by manifold strats
+
+1. scale
+small community = easy moderation targets
+2. continuity
+long history = easy to spot real interest
+3. economics
+less gamified = less of interest for bots
+
+=========================================
+
+provenance causes another issue by itself
+closed-off communities where the barriers
+to entry are too high but secures a scale
+where reaction-is-engagement as positives
+
+for existing large communities inherently
+game-the-reward is already too prevelant.
+
+=========================================
+
+the real question is how does WoT welcome
+isolated newcomer, no-network-yet person?
+
+how do you make these gates keep out bots
+but open-enough for it not be a forteress
+
+by letting trust grow or demading upfront
+a door barely needs a lock but no looting
+
+=========================================
+
+how moderation is not about the contents.
+or at least rarely, but about the history
+
+no complex captchas or invasive questions
+forms to fill and reasons justify at gate
+
+=========================================
+
+RePaper: https://arxiv.org/pdf/2605.12512
